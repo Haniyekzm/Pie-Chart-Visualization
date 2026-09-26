@@ -24,4 +24,4 @@ In computational chemistry and molecular simulations, visualizing the energy dis
 - Generates two pie charts:  
   - Pie chart for negative-energy amino acids  
   - Pie chart for non-negative-energy amino acids  
-- Easy to customize and extend  
+- Easy to customize and extend.  
